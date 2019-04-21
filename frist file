@@ -1,0 +1,8 @@
+echo "# github-slideshow" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rainer2586/github-slideshow.git
+git push -u origin master
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
